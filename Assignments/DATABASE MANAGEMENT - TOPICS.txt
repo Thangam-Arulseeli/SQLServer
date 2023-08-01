@@ -1,0 +1,29 @@
+College
+School
+Hospital
+Pet Clinic 
+Children's Clinic
+Mall
+Training Institution
+E-commerce website
+E-banking website
+Sports Academy
+Theme Park
+E-learning website
+Restaurant
+IT Company
+Movie ticket website
+Travel agency website
+Gym management
+Car Rental management
+Job Portal
+Bus Booking management
+Real-estate management
+Crime-reporting management
+
+
+
+
+
+
+
